@@ -1,0 +1,7 @@
+{
+  "max_seq_length": 510,
+  "do_lower_case": false,
+  "max_segments": 8,
+  "do_SSDE": false,
+  "do_SimCSE": false
+}

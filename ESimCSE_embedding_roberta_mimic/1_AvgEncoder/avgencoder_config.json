@@ -1,0 +1,6 @@
+{
+  "max_segments": 12,
+  "pooling_mode_mean_max_chunk": false,
+  "pooling_mode_max_chunk": false,
+  "pooling_mode_mean_chunk": true
+}
